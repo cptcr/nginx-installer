@@ -37,7 +37,7 @@ This project is licensed under the **MIT License** by **CPTCR**.
 > brew update      # For macOS
 > ```
 
-> [!DANGER]
+> [!WARN]
 > **Incorrect configuration changes can break your web server.**
 > Always back up your configuration files before modifying them:
 > ```sh
