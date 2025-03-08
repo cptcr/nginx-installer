@@ -1,0 +1,14 @@
+{
+    "name": "nginx_installer",
+    "scripts": {
+        "install": "npx tsc && node ."
+    },
+    "version": "1.0.0",
+    "main": "dist/NGINX.js",
+    "license": "MIT",
+    "dependencies": {
+      "chalk": "^5.4.1",
+      "readline-sync": "^1.4.10"
+    }
+  }
+  
